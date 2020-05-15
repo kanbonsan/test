@@ -1,0 +1,17 @@
+{
+    "name": "kanbonsan/test",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Shuichi Tanaka",
+            "email": "shu.at.kantaro.org@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload" : {
+        "psr-4" : {
+            "Kanbonsan\\Test\\" : "src/"
+        }
+    }
+}
